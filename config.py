@@ -9,18 +9,18 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("29667544"))
+API_HASH = getenv("c913e280851f2cef5e2869d65c1d082d")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("6805838144:AAFeps7j9PUktQAT6EcLZrKuo_qQuOaA0zE")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","sage_xd")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Mantoo442")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME")
+BOT_USERNAME = getenv("@MANTOOKUMAR_bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME")
+ASSUSERNAME = getenv("@Mantoomusic442")
 # ---------------------------------------------------------
 
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1001919135283))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002114591554))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6753014811))
+OWNER_ID = int(getenv("OWNER_ID", 5665288359))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/sage_bot_support")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/team_sage_xd")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Mantoo442")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Biharboard12thquizgroup")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
